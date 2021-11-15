@@ -14,30 +14,14 @@ Preview the example live on [StackBlitz](http://stackblitz.com/):
 
 ## Demo
 
-
 [https://laisee-frontpage.vercel.app/](https://laisee-frontpage.vercel.app/)
-
-## Deploy your own
-
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/blog-starter&project-name=blog-starter&repository-name=blog-starter)
 
 
 ## How to use
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
-
 ```
-npx create-next-app --example blog-starter blog-starter-app
-
-```
-
-or
-
-```
-yarn create next-app --example blog-starter blog-starter-app
-
+npm i
+npm run dev 
 ```
 
 Your blog should be up and running on [http://localhost:3000](http://localhost:3000)! If it doesn't work, post on [GitHub discussions](https://github.com/vercel/next.js/discussions).
