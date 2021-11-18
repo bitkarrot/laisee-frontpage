@@ -2,7 +2,7 @@
   "callback": "https://lnbits.hapax.io/lnurlp/api/v1/lnurl/cb/1",
   "commentAllowed": 100, 
   "maxSendable": 10000000, 
-  "metadata": "[[\"text/plain\", \"lnurlp on lnbits\"]]", 
+  "metadata": "[[\"text/plain\", \"bitkarrot on lnbits\"]]", 
   "minSendable": 10000, 
   "tag": "payRequest"
 }
