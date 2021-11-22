@@ -12,6 +12,9 @@ Lightning addresses are dynamically added by external script to `public/.well-kn
 
 An example address: `user@laisee.org`
 
+**PLEASE BE AWARE THAT ANY CHANGES TO FILES IN THIS DIRECTORY 
+COULD ADVERSELY AFFECT TG USER ACCOUNTS, 
+AS DATA IS NOT SYNCED WITH LNBITS OR POSTGRES**
 
 ## Demo
 
