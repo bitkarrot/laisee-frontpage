@@ -25,12 +25,12 @@ export default function Alert({ preview }) {
             </>
           ) : (
             <>
-              The source code for this blog is{' '}
+              Alert message goes here. {' '}
               <a
                 href={`https://github.com/bitkarrot/laisee-markdown-frontpage`}
                 className="underline hover:text-success duration-200 transition-colors"
               >
-                available on GitHub
+                GitHub repo
               </a>
               .
             </>
