@@ -25,14 +25,7 @@ export default function Alert({ preview }) {
             </>
           ) : (
             <>
-              Alert message goes here. {' '}
-              <a
-                href={`https://github.com/bitkarrot/laisee-markdown-frontpage`}
-                className="underline hover:text-success duration-200 transition-colors"
-              >
-                GitHub repo
-              </a>
-              .
+              Alert message goes here.
             </>
           )}
         </div>
