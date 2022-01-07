@@ -6,9 +6,9 @@ export default function Intro() {
       <h1 className="text-6xl md:text-8xl font-bold tracking-tighter leading-tight md:pr-8">
         Laisee.org
       </h1>
-    
-    <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-        Generate your own Laisee with the Lightning Network.
+      <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
+        <p>🧧Little red envelopes with money in them:</p>
+	<p> ⚡Lightning Laisee.</p>
       </h4>
     </section>
   )

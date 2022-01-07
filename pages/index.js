@@ -14,7 +14,7 @@ export default function Index({ allPosts }) {
     <>
       <Layout>
         <Head>
-          <title>Laisee.org </title>
+          <title>Laisee</title>
         </Head>
         <Container>
           <Intro />
