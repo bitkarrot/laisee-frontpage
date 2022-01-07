@@ -1,8 +1,8 @@
 ---
 title: 'How Laisee work'
-excerpt: 'Lightning Laisee leverage the power of the Lightning Network to make it easy to gift money to anyone. Until they are withdrawn, the satoshi you gift are kept on our own custodial wallet. Alternatively, you can run your own wallet on a node to which you have the keys.'
+excerpt: 'Lightning Laisee leverage the power of the Lightning Network to make it easy to gift money to anyone. Until they are withdrawn, the satoshi you gift are kept on our custodial wallet. Alternatively, you can run your own wallet on a node to which you have the keys.'
 coverImage: '/assets/blog/explanation/banner.png'
-date: '2021-01-02T05:35:07.322Z'
+date: '2021-01-01T12:49:07.322Z'
 author:
   name: Bitcoin Association of Hong Kong
   picture: '/assets/blog/authors/bahk.png'
