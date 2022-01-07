@@ -25,7 +25,7 @@ export default function Alert({ preview }) {
             </>
           ) : (
             <>
-              <a href="https://laisee.org/t.me/laiseebot"> Visit laiseebot on Telegram </a>
+              <a href="https://t.me/laiseebot"> Visit laiseebot on Telegram </a>
             </>
           )}
         </div>
