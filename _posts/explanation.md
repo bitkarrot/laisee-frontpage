@@ -43,4 +43,4 @@ When we create our Laisee, we first have to fund this node with the appropriate 
 
 To manage our Laisee, we use [LNBits](https://lnbits.com/). We also have [scripts](https://github.com/bitkarrot/lntools) to help us with creating Laisee in bulk.
 
-**[Read more: How to make your own Laisee](/sendlaisee)** 
+**[Read more: How to make your own Laisee](/posts/send)** 

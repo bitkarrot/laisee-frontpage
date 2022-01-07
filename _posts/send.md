@@ -49,4 +49,4 @@ Follow these steps to make your own Laisee:
 
 [Digital template](/assets/2022/tiger.svg)
 
-[Having trouble sending a Laisee? Contact our Helpdesk](/helpdesk)
+[Having trouble sending a Laisee? Contact our Helpdesk](/posts/helpdesk)
