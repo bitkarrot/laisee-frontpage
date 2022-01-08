@@ -18,3 +18,11 @@ The Laisee Helpdesk is happy to help you with all your problems around our Light
 
 
 [The Bitcoin Association of Hong Kong also operates a helpdesk for general Bitcoin questions. You can find it here.](https://www.bitcoin.org.hk/2020-new-chats/)
+
+### Twitter
+
+You can leave us a comment and follow us on Twitter at [@sendlaisee](https://twitter.com/sendlaisee)
+
+### Email
+
+Feel free to write us an email with your questions at [send@laisee.org](mailto:send@laisee.org)
