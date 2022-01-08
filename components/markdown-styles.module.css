@@ -18,5 +18,5 @@
 }
 
 .markdown a { 
-  @apply mx-3 font-bold hover:underline; color:darkslateblue;
+  @apply mx-3 font-bold hover:underline; color:#5b1110ff;
 }

@@ -1,13 +1,13 @@
 ---
 title: 'How to send Laisee'
 excerpt: 'You can create Laisee using the @laiseebot on Telegram, or manually through any LNBits platform. To send Laisee, you will need Bitcoin on the Lightning Network.'
-coverImage: '/assets/blog/sendlaisee/banner.png'
-date: '2021-01-01T04:35:07.322Z'
+coverImage: '/assets/blog/send/banner.png'
+date: '2021-01-01T12:46:07.322Z'
 author:
   name: Bitcoin Association of Hong Kong
   picture: '/assets/blog/authors/bahk.png'
 ogImage:
-  url: '/assets/blog/sendlaisee/banner.png'
+  url: '/assets/blog/send/banner.png'
 ---
 
 ## Option 1: Contact the @laiseebot
@@ -48,3 +48,5 @@ Follow these steps to make your own Laisee:
 [Inlet template back](/assets/2022/inlet_back.svg)
 
 [Digital template](/assets/2022/tiger.svg)
+
+[Having trouble sending a Laisee? Contact our Helpdesk](/posts/helpdesk)
