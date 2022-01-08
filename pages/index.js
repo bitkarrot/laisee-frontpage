@@ -6,8 +6,11 @@ import Layout from '../components/layout'
 import { getAllPosts } from '../lib/api'
 import Head from 'next/head'
 import { CMS_NAME } from '../lib/constants'
+import { useTheme } from 'next-themes'
+
 
 export default function Index({ allPosts }) {
+  const { theme, setTheme } = useTheme()
   const heroPost = allPosts[0]
   const morePosts = allPosts.slice(1)
   return (
@@ -17,6 +20,16 @@ export default function Index({ allPosts }) {
           <title>Laisee</title>
         </Head>
         <Container>
+        <div>
+      <button
+        className="mt-16 px-4 py-2 text-black dark:text-white bg-white dark:bg-black font-semibold rounded-md"
+        onClick={() => {
+        setTheme(theme === 'light' ? 'dark' : 'light')
+      }}
+      >
+      Change Mode
+    </button>
+    </div>
           <Intro />
           {heroPost && (
             <HeroPost
