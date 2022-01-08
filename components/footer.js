@@ -10,18 +10,32 @@ export default function Footer() {
             Send someone you love a Laisee today.
           </h3>
           <div className="flex flex-col lg:flex-row justify-center items-center lg:pl-4 lg:w-1/2">
-            <a
-              href={`https://t.me/laiseebot`}
+          <a
+              href={`https://t.me/sendlaisee`}
               className="mx-3 bg-black hover:bg-white hover:text-black border border-black text-white font-bold py-3 px-12 lg:px-8 duration-200 transition-colors mb-6 lg:mb-0"
             >
               Send via Telegram
             </a>
             <a
+              href={`https://twitter.com/sendlaisee`}
+              className="mx-3 font-bold hover:underline"
+            >
+              <img src="/assets/icons/twitter.svg" alt="github" width="50" height="50" ></img>
+            </a>
+            
+            <a
               href={`https://github.com/bitkarrot/laiseebot`}
               className="mx-3 font-bold hover:underline"
             >
-              View on GitHub
+              <img src="/assets/icons/github.svg" alt="github" width="50" height="50" ></img>
             </a>
+            <a
+              href={`mailto:send@laisee.org`}
+              className="mx-3 font-bold hover:underline"
+            >
+              <img src="/assets/icons/email.svg" alt="github" width="50" height="50" ></img>
+            </a>
+
           </div>
         </div>
       </Container>
