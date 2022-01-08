@@ -9,3 +9,10 @@ author:
 ogImage:
   url: '/assets/blog/introduction/banner.png'
 ---
+
+Hello there. 
+
+<div className="mx-3 font-bold">
+  > Some notable things in a block quote!
+</div>
+
