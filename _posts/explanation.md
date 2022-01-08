@@ -16,7 +16,8 @@ Lightning Laisee make use of several technologies. All components of the Lightni
 
 Lightning Laisee typically come in the form of png files, printed on paper or as NFC cards. The actual Laisee is a LNURL, which looks like this:
 
-`LNURL1DP68GURN8GHJ7UM9DEJZUMRPD9EK2EFWDAEXWTMHD96XSERJV9MJ7CTSDYHHVVF0D3H82UNV9AJKU3M42YM4S7J8FF9XJNRWXFEKUUMS89V9QD9NA3J`
+`LNURL1DP68GURN8GHJ7UM9DEJZUMRPD9EK2EFWDAEXWTMHD96XSERJV9MJ7C
+TSDYHHVVF0D3H82UNV9AJKU3M42YM4S7J8FF9XJNRWXFEKUUMS89V9QD9NA3J`
 
 A LNURL is a bech32 encoded URL, pre-fixed with LNURL. We can use a [decoder](https://lnurl.fiatjaf.com/codec/) to get the URL embedded in it: [`https://send.laisee.org/withdraw/api/v1/lnurl/enGuQ7XzGJJiLn2snsp9XP`](https://send.laisee.org/withdraw/api/v1/lnurl/enGuQ7XzGJJiLn2snsp9XP).
 
