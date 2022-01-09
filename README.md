@@ -1,4 +1,4 @@
-# Laisee.org front page 
+# Laisee.org
 
 ## 🧧Little red envelopes with money in them: ⚡Lightning Laisee.
 What is a Laisee?
