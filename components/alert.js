@@ -1,4 +1,4 @@
-import Container from './container'
+import ContainerWhite from './containerwhite'
 import cn from 'classnames'
 import { EXAMPLE_PATH } from '../lib/constants'
 
@@ -10,8 +10,8 @@ export default function Alert({ preview }) {
         'bg-accent-1 border-accent-2': !preview,
       })}
     >
-      <Container>
-        <div className="py-2 text-center text-sm text-black dark:text-black">
+      <ContainerWhite>
+        <div className="py-2 text-center text-sm text-black">
           {preview ? (
             <>
               This page is a preview.{' '}
@@ -29,9 +29,7 @@ export default function Alert({ preview }) {
             </>
           )}
         </div>
-
-
-      </Container>
+      </ContainerWhite>
     </div>
   )
 }
