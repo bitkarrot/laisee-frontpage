@@ -13,6 +13,7 @@ export default function Index({ allPosts }) {
   const { theme, setTheme } = useTheme()
   const heroPost = allPosts[0]
   const morePosts = allPosts.slice(1)
+  Index.theme = 'dark'
   return (
     <>
       <Layout>
