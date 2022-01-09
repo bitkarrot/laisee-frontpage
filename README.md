@@ -1,6 +1,11 @@
 # Laisee.org front page 
 
-## A statically generated blog example using Next.js and Markdown
+## 🧧Little red envelopes with money in them: ⚡Lightning Laisee.
+What is a Laisee?
+
+Laisee are little red envelopes with money. Lightning Laisee contain Bitcoin on the Lightning Network. They can exist in both physical and digital form. You can send a Lightning Laisee to anyone in the world.
+
+## Built with A statically generated blog example using Next.js and Markdown
 
 This example showcases Next.js's [Static Generation](https://nextjs.org/docs/basic-features/pages) feature using Markdown files as the data source.
 
