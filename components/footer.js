@@ -34,9 +34,8 @@ export default function Footer() {
               className="mx-3 font-bold hover:underline"
             >
               <img src="/assets/icons/email.svg" alt="github" width="50" height="50" ></img>
-            </a>
-
-          </div>
+            </a>            
+          </div>          
         </div>
       </Container>
     </footer>
