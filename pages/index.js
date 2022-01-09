@@ -13,6 +13,7 @@ export default function Index({ allPosts }) {
   const { theme, setTheme } = useTheme()
   const heroPost = allPosts[0]
   const morePosts = allPosts.slice(1)
+  Index.theme = 'dark'
   return (
     <>
       <Layout>
@@ -20,7 +21,6 @@ export default function Index({ allPosts }) {
           <title>Laisee</title>
         </Head>
         <Container>
-          The current theme is: {theme}
           <div class="text-right">
             <button
               className="mt-6 px-2 py-2 text-white dark:text-black bg-black dark:bg-white font-semibold rounded-full border border-black"
