@@ -20,3 +20,7 @@
 .markdown a { 
   @apply mx-3 font-bold hover:underline; color: #dcb866ff;
 }
+
+.markdown ul { 
+  @apply mx-8 list-disc
+}
