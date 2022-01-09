@@ -22,7 +22,7 @@ export default function Index({ allPosts }) {
         <Container>
           <div class="text-right">
             <button
-              className="mt-16 px-4 py-2 text-black dark:text-white bg-white dark:bg-black font-semibold rounded-md"
+              className="mt-6 px-2 py-2 text-black dark:text-white bg-white dark:bg-black font-semibold rounded-full"
               onClick={() => {
                 setTheme(theme === 'light' ? 'dark' : 'light')
               }}

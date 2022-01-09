@@ -27,10 +27,15 @@ You will be handed an image with a QR code. You can forward this image to anyone
 [LNbits](https://lnbits.com/) is a free and open-source Lightning accounts system. It is included in Umbrel and many other self-sovereign platforms. You can run your own LNBits instance and connect it to a variety of funding sources, for instance, your own Lightning node.
 
 Follow these steps to make your own Laisee:
+ 
 - In LNBits, create a wallet and fund it with satoshi.
+
 - Enable the LNURLw extension and navigate to it.
+
 - Using _Quick Vouchers_ you can specify your wallet and the total amount of the Laisee. Always set _Number of vouchers_ to 1.
+
 - In your list of withdrawl links, you can access the QR code, hyperlink and raw LNURL.
+
 - Print the QR codes on a piece of paper, or embed them in a NFC card.
 
 ## Resources

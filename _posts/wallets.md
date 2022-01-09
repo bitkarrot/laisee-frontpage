@@ -32,6 +32,8 @@ LNTXBOT ([Telegram](https://t.me/lntxbot))
 
 [Wallet of Satoshi](https://www.walletofsatoshi.com/) ([Google Play](https://play.google.com/store/apps/details?id=com.livingroomofsatoshi.wallet), [iOS](https://itunes.apple.com/us/app/wallet-of-satoshi/id1438599608))
 
+## Find out More
+
 [Read: How to redeem a Laisee](/posts/redeem)
 
 [Read: How to make a Laisee](/posts/send)
