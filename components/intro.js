@@ -7,8 +7,8 @@ export default function Intro() {
         Laisee.org
       </h1>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-        <p>🧧Little red envelopes with money in them:</p>
-      	<p> ⚡Lightning Laisee.</p>
+        <p>🧧Little red envelopes with money in them:
+      	 ⚡Lightning Laisee.</p>
       </h4>
   </section>
   )
