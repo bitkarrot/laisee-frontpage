@@ -14,6 +14,15 @@ ogImage:
 
 Lightning wallets can be categorized into custodial and non-custodial wallets. With custodial wallets, you trust the operator of the wallet with your funds, but often pay no or a smaller set-up fee. If you are downloading a Lightning wallet purely to play with your Laisee, you might find a custodial wallet most suitable. If you are serious about storing funds in bitcoin, we recommend a non-custodial wallet.
 
+## Top Up your Wallet
+
+You can top up your @laiseebot Wallet with 3 different methods: 1) Invoice 2) Lightning Address 3) External Exchange
+
+Watch a Demo here on how to top up with @laiseebot: 
+
+[![Create Laisee with laiseebot](https://img.youtube.com/vi/O8XJoAa4HQI/maxresdefault.jpg)](https://www.youtube.com/watch?v=O8XJoAa4HQI)
+
+
 ### Non-custodial wallets:
 
 [Breez](https://breez.technology/) ([Google Play](https://www.walletofsatoshi.com/), [Testflight for iOS](https://testflight.apple.com/join/wPju2Du7))

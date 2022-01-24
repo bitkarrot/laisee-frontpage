@@ -18,6 +18,11 @@ Scan the QR code with your wallet and follow the instructions on screen. Some wa
 
 If you received a raw LNURL, you can claim the amounts by copy-pasting the code into your wallet, or converting it to a QR code and scanning it. If you received a link, you should find a raw LNURL as well as a QR code by opening the link in a browser.
 
+Watch a Demo here on how to redeem using Blue Wallet as an example: 
+
+[![Create Laisee with laiseebot](https://img.youtube.com/vi/OpiRyTdmFQk/maxresdefault.jpg)](https://www.youtube.com/watch?v=OpiRyTdmFQk )
+
+
 [Read more about Lightning wallets](/posts/wallets)
 
 [Having trouble redeeming a Laisee? Contact our Helpdesk](/posts/helpdesk)
